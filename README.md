@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Information Technology at Thu Duc College of Technology**
 - 💻 I mainly work with **ReactJS, Laravel, Node.js, TailwindCSS**
 - 💬 Ask me anything about **web development**
-- 📫 Reach me at: thanhdo0623@gmail.com
+- 📫 Reach me at: **[thanhdo062305@gmail.com](mailto:thanhdo062305@gmail.com)**
 - ⚡ Fun fact: I can sleep 14 hours a day and still feel sleepy 😄
 
 ---
