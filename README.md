@@ -43,10 +43,10 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.facebook.com/thanhhdo.0623" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:thanhdo062305@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
